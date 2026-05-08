@@ -1,8 +1,7 @@
 <p align="left">CyberSegurança - Educação - Python - Robôtica - IOT - Desenvolvimento de Games</p>
 
 ###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1gu3lDev&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1gu3lDev)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
