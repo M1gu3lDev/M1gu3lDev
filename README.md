@@ -1,9 +1,8 @@
 <p align="left">CyberSegurança - Educação - Python - Robôtica - IOT - Desenvolvimento de Games</p>
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1gu3lDev&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=M1gu3lDev)](https://git.io/streak-stats)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1gu3lDev&layout=compact&theme=tokyonight)
 ###
 
 <h2 align="left">Sobre mim</h2>
