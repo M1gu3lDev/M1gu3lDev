@@ -3,6 +3,7 @@
 ###
 [![GitHub Streak](https://streak-stats.demolab.com/?user=M1gu3lDev)](https://git.io/streak-stats)
 ###
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=M1gu3lDev&show_icons=true&theme=tokyonight)
 ###
 
 <h2 align="left">Sobre mim</h2>
