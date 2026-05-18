@@ -1,9 +1,9 @@
 <p align="left">CyberSegurança - Educação - Python - Robôtica - IOT - Desenvolvimento de Games</p>
 
 ###
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1gu3lDev&show_icons=true&theme=tokyonight)
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M1gu3lDev&layout=compact&theme=tokyonight)
 ###
 
 <h2 align="left">Sobre mim</h2>
